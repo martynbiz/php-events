@@ -3,7 +3,7 @@
     "type": "library",
     "description": "",
     "keywords": [""],
-    "homepage": "http://github.com/martynbiz/php-event-dispatcher",
+    "homepage": "http://github.com/martynbiz/php-events",
     "license": "MIT",
     "authors": [
         {
