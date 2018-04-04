@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "MartynBiz\\EventDispatcher\\": "src/"
+            "MartynBiz\\Events\\": "src/"
         }
     },
     "require": {
